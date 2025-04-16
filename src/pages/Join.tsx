@@ -28,7 +28,7 @@ const Join = () => {
         'Rate and review menu items',
         'Earn rewards and redeem special offers',
       ],
-      image: 'https://images.unsplash.com/photo-1531747118685-ca8fa6e08806?q=80&w=1200&auto=format&fit=crop',
+      image: 'https://plus.unsplash.com/premium_photo-1739369169172-af9151ed2eea?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fGNhbnRlZW4lMjBjdXN0b21lcnxlbnwwfHwwfHx8MA%3D%3D',
     },
     owner: {
       title: 'Join as a Canteen Owner',
@@ -42,7 +42,7 @@ const Join = () => {
         'Receive notifications for low stock items',
         'Build customer loyalty through improved service',
       ],
-      image: 'https://images.unsplash.com/photo-1556911220-bda9da8a1f6b?q=80&w=1200&auto=format&fit=crop',
+      image: 'https://media.istockphoto.com/id/1174650335/photo/portrait-of-owner-waiter-at-restaurant.jpg?s=612x612&w=0&k=20&c=r24cNKG0kcbaZEUxLzcaY86on-Yly9uE1N0zlpit9q8=',
     },
     admin: {
       title: 'Join as an Administrator',
