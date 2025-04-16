@@ -112,7 +112,7 @@ const Index = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-brand-orange/20 rounded-full blur-3xl dark:bg-brand-orange/10"></div>
               <img 
-                src="https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=800&auto=format&fit=crop" 
+                src="https://media.istockphoto.com/id/1427534719/photo/unrecognizable-friends-and-family-sharing-food-at-dinning-room.jpg?s=612x612&w=0&k=20&c=fjDIjCxYrauptYQ0zV5KNRbCDv7I3yjn7n-B69r1soo=" 
                 alt="Campus Food" 
                 className="relative z-10 rounded-2xl shadow-lg w-full object-cover h-[400px]"
               />
