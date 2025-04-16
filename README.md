@@ -54,13 +54,9 @@ Supabase offers a powerful and scalable backend with minimal configuration, maki
 
 ---
 
-## How can I edit this code?
-
-There are several ways to work with and modify this project:
+If you prefer to develop locally, you can clone the repository and push changes. Any updates you make will also be reflected in Lovable.
 
 ### Use your preferred IDE
-
-If you prefer to develop locally, you can clone the repository and push changes. Any updates you make will also be reflected in Lovable.
 
 **Pre-requisite**: [Install Node.js & npm using nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -79,22 +75,6 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
-
-### Edit a file directly in GitHub
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit them.
-
-### Use GitHub Codespaces
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new environment.
-- Edit files directly within Codespaces and commit your changes.
-
----
 
 ## What technologies are used for this project?
 
