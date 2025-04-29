@@ -200,7 +200,7 @@ const HowItWorks = () => {
             <Button size="lg" variant="secondary" asChild>
               <Link to="/signup">Create an Account</Link>
             </Button>
-            <Button size="lg" variant="outline" className="text-white border-white hover:bg-white/20" asChild>
+            <Button size="lg" variant="outline" className="text-black dark:text-white hover:bg-black/10 dark:hover:bg-white/20" asChild>
               <Link to="/menu">Browse Menu</Link>
             </Button>
           </div>
